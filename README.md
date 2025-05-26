@@ -11,8 +11,7 @@
 - 🧠 I’m constantly learning — especially about Linux, automation, and server hosting.
 - 🎮 Passionate about gaming communities — I run [Nort-Sun](https://www.nort-sun.com), a cross-platform server hub for Valheim, Minecraft, and more.
 - 💡 Exploring ways to merge tech, repair, and open-source in meaningful projects.
-- 🛠️ Currently working on electronics repair services through **Nort-Sun Recycling**.
-
+- 🛠️ Currently working on electronics repair services 
 ---
 
 ## 🔨 Projects
