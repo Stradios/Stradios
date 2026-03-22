@@ -22,7 +22,7 @@
 |---|---|
 | 🔌 [WhatsAppToDiscord](https://github.com/Stradios/WhatsAppToDiscord) | Bridges WhatsApp messages to Discord using `yowsup`. |
 | 🌍 [Nort-Sun Game Servers](https://www.nort-sun.com) | Hosting servers for Valheim, Minecraft, and Veloren. |
-| 💼 Emblem of Gold *(WoW Addon)* | Tracks player gold and emblems in WotLK (3.3.5a) during vendor sessions. |
+| 💼 [Emblem of Gold](https://github.com/Stradios/Emblem-of-Gold) | Tracks player gold and emblems in WotLK (3.3.5a) during vendor sessions. |
 
 ---
 
