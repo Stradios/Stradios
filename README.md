@@ -40,4 +40,3 @@
 ## 🌐 Links
 
 - 🖥️ [nort-sun.com](https://www.nort-sun.com)
-- 🎥 [Patreon](https://www.patreon.com/StradiosTv)
