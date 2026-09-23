@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c14,35:0d1220,70:c2410c,100:f97316&height=220&section=header&text=Hi,%20I'm%20Stradios&fontSize=42&fontColor=e2e8f0&fontAlignY=38&animation=fadeIn" alt="Header banner"/>
+  <img src="./nort-sun-banner.png" alt="Header banner" width="100%"/>
 </p>
 
 <p align="center">
