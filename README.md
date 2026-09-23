@@ -1,7 +1,6 @@
-<h1 align="center">
-  <img src="https://api.iconify.design/lucide/hand.svg?color=%238b949e&height=28" align="center"/>
-  Hi, I'm Stradios
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Hi,%20I'm%20Stradios&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Header banner"/>
+</p>
 
 <p align="center">
   <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e&height=16" align="center"/> Tinkerer &nbsp;|&nbsp;
@@ -68,4 +67,3 @@
 ## <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=22" align="center"/> Links
 
 - <img src="https://api.iconify.design/lucide/laptop.svg?color=%238b949e&height=16" align="center"/> [nort-sun.com](https://www.nort-sun.com)
-](https://perchance.org/nopebey3o9?d=eyJhc3BlY3QiOiIzOjIiLCJsaWJyYXJ5IjoiZ2FtaW5nIiwidGl0bGUiOiIiLCJzdWJ0aXRsZSI6IlBsYXl0aHJvdWdocyDCtyBSZXRybyDCtyBFc3BvcnRzIiwic3VidGl0bGVPbiI6dHJ1ZSwiZm9udCI6IlJhbGV3YXkiLCJ0aXRsZVdlaWdodCI6NzAwLCJ0aXRsZVNjYWxlIjo1NSwidGl0bGVVcHBlciI6ZmFsc2UsInRpdGxlU3BhY2luZyI6MCwibGluZUhlaWdodCI6MTA4LCJ0aXRsZVNoYWRvdyI6MCwidGl0bGVPdXRsaW5lIjowLCJ0ZXh0UG9zIjoiY2VudGVyIiwic3VidGl0bGVTaXplIjo0Miwic3VidGl0bGVHYXAiOjMyLCJzdWJ0aXRsZVdlaWdodCI6MzAwLCJzdWJ0aXRsZU9wYWNpdHkiOjU1LCJzdWJ0aXRsZVVwcGVyIjpmYWxzZSwic3VidGl0bGVTcGFjaW5nIjo0LCJ0ZXh0Q29sb3IiOiIjZmZmZmZmIiwiYmdDb2xvciI6IiMwNTEwMGMiLCJhY2NlbnRDb2xvciI6IiMxMmI4ODYiLCJpY29uQ29sb3IiOiIjMDYzMDFmIiwib3V0bGluZUNvbG9yIjoiIzA1MTAwYyIsInBhdHRlcm4iOiJub25lIiwicGF0dGVybk9wYWNpdHkiOjEzLCJib2tlaEFtb3VudCI6MCwiYm9rZWhTaXplIjoxMjAsImljb25JZCI6ImdhbWVwYWQiLCJpY29uT3BhY2l0eSI6MjIsImljb25TaXplIjo3MCwiaWNvbkFuY2hvciI6ImxlZnQiLCJlbW9qaSI6eyJ0IjoibyIsImNvZGUiOiIxRjNBRSIsImxhYmVsIjoiR2FtaW5nIn0sImVtb2ppU2l6ZSI6NDAsImVtb2ppT3BhY2l0eSI6MTAwLCJlbW9qaVBvcyI6ImNlbnRlciIsImVtb2ppTGF5ZXIiOiJpbmxpbmUtYWZ0ZXIiLCJhY2NlbnRCYXIiOnRydWUsImFjY2VudEJhcldpZHRoIjo3LCJ2aWduZXR0ZSI6dHJ1ZSwiZ3JhaW4iOmZhbHNlLCJ1bmRlcmxpbmUiOmZhbHNlLCJiZ0ltYWdlIjpudWxsLCJiZ0ltYWdlRml0IjoiY292ZXIiLCJiZ0ltYWdlT3BhY2l0eSI6MTAwLCJiZ0ltYWdlQmx1ciI6MCwiYmdJbWFnZURhcmtlbiI6MH0)
