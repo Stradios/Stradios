@@ -1,45 +1,45 @@
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f44b.svg" width="30" align="center"/>
+  <img src="https://api.iconify.design/lucide/hand.svg?color=%238b949e&height=28" align="center"/>
   Hi, I'm Stradios
 </h1>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f527.svg" width="16" align="center"/> Tinkerer &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f5a5-fe0f.svg" width="16" align="center"/> Developer &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f6e0-fe0f.svg" width="16" align="center"/> Repair Specialist &nbsp;|&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f310.svg" width="16" align="center"/> Linux Enthusiast
+  <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e&height=16" align="center"/> Tinkerer &nbsp;|&nbsp;
+  <img src="https://api.iconify.design/lucide/code-2.svg?color=%238b949e&height=16" align="center"/> Developer &nbsp;|&nbsp;
+  <img src="https://api.iconify.design/lucide/hammer.svg?color=%238b949e&height=16" align="center"/> Repair Specialist &nbsp;|&nbsp;
+  <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=16" align="center"/> Linux Enthusiast
 </p>
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9f0.svg" width="24" align="center"/> About Me
+## <img src="https://api.iconify.design/lucide/user.svg?color=%238b949e&height=22" align="center"/> About Me
 
-- <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f468-200d-1f4bb.svg" width="16" align="center"/> I enjoy creating tools, scripts, and systems that improve workflows.
-- <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" width="16" align="center"/> Constantly learning — especially about Linux, automation, and server hosting.
-- <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f3ae.svg" width="16" align="center"/> Passionate about gaming communities — I run [Nort-Sun](https://www.nort-sun.com), a cross-platform server hub for Valheim, Minecraft, and more.
-- <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f4a1.svg" width="16" align="center"/> Exploring ways to merge tech, repair, and open-source in meaningful projects.
-- <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f6e0-fe0f.svg" width="16" align="center"/> Currently working on electronics repair services.
+- <img src="https://api.iconify.design/lucide/terminal.svg?color=%238b949e&height=16" align="center"/> I enjoy creating tools, scripts, and systems that improve workflows.
+- <img src="https://api.iconify.design/lucide/brain.svg?color=%238b949e&height=16" align="center"/> Constantly learning — especially about Linux, automation, and server hosting.
+- <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%238b949e&height=16" align="center"/> Passionate about gaming communities — I run [Nort-Sun](https://www.nort-sun.com), a cross-platform server hub for Valheim, Minecraft, and more.
+- <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%238b949e&height=16" align="center"/> Exploring ways to merge tech, repair, and open-source in meaningful projects.
+- <img src="https://api.iconify.design/lucide/wrench.svg?color=%238b949e&height=16" align="center"/> Currently working on electronics repair services.
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f528.svg" width="24" align="center"/> Projects
+## <img src="https://api.iconify.design/lucide/hammer.svg?color=%238b949e&height=22" align="center"/> Projects
 
 | Project | Description |
 |---|---|
-| <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f50c.svg" width="16" align="center"/> [WhatsAppToDiscord](https://github.com/Stradios/WhatsAppToDiscord) | Bridges WhatsApp messages to Discord using `yowsup`. |
-| <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f30d.svg" width="16" align="center"/> [Nort-Sun Game Servers](https://www.nort-sun.com) | Hosting servers for Valheim, Minecraft, and Veloren. |
-| <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f4bc.svg" width="16" align="center"/> [Emblem of Gold](https://github.com/Stradios/Emblem-of-Gold) | Tracks player gold and emblems in WotLK (3.3.5a) during vendor sessions. |
+| <img src="https://api.iconify.design/lucide/plug.svg?color=%238b949e&height=16" align="center"/> [WhatsAppToDiscord](https://github.com/Stradios/WhatsAppToDiscord) | Bridges WhatsApp messages to Discord using `yowsup`. |
+| <img src="https://api.iconify.design/lucide/server.svg?color=%238b949e&height=16" align="center"/> [Nort-Sun Game Servers](https://www.nort-sun.com) | Hosting servers for Valheim, Minecraft, and Veloren. |
+| <img src="https://api.iconify.design/lucide/briefcase.svg?color=%238b949e&height=16" align="center"/> [Emblem of Gold](https://github.com/Stradios/Emblem-of-Gold) | Tracks player gold and emblems in WotLK (3.3.5a) during vendor sessions. |
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f9e0.svg" width="24" align="center"/> Tech I Work With
+## <img src="https://api.iconify.design/lucide/cpu.svg?color=%238b949e&height=22" align="center"/> Tech I Work With
 
 **OS**
 <br/>
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![GNOME](https://img.shields.io/badge/GNOME-4A86CF?style=for-the-badge&logo=gnome&logoColor=white)
-![CasaOS](https://img.shields.io/badge/CasaOS-2E7DFF?style=for-the-badge&logo=linux&logoColor=white)
+![CasaOS](https://img.shields.io/badge/CasaOS-2E7DFF?style=for-the-badge&logo=linuxserver&logoColor=white)
 
 **Tools**
 <br/>
@@ -60,11 +60,11 @@
 **Game Dev**
 <br/>
 ![Lua](https://img.shields.io/badge/Lua%20(WoW%20API)-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Java](https://img.shields.io/badge/Minecraft%20Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
-![Valheim](https://img.shields.io/badge/Valheim%20Modding-5C4033?style=for-the-badge&logo=steam&logoColor=white)
+![Minecraft Plugins](https://img.shields.io/badge/Minecraft%20Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Valheim Modding](https://img.shields.io/badge/Valheim%20Modding-5C4033?style=for-the-badge&logo=steam&logoColor=white)
 
 ---
 
-## <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f310.svg" width="24" align="center"/> Links
+## <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=22" align="center"/> Links
 
-- <img src="https://cdn.jsdelivr.net/gh/jdecked/twemoji@16.0.1/assets/svg/1f4bb.svg" width="16" align="center"/> [nort-sun.com](https://www.nort-sun.com)
+- <img src="https://api.iconify.design/lucide/laptop.svg?color=%238b949e&height=16" align="center"/> [nort-sun.com](https://www.nort-sun.com)
