@@ -1,4 +1,4 @@
-[<h1 align="center">
+<h1 align="center">
   <img src="https://api.iconify.design/lucide/hand.svg?color=%238b949e&height=28" align="center"/>
   Hi, I'm Stradios
 </h1>
